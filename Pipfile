@@ -1,0 +1,37 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+"boto3" = "*"
+botocore = "*"
+dogpile = "*"
+"dogpile.cache" = "*"
+graphviz = "*"
+netaddr = "*"
+"psycopg2" = "*"
+pydot = "*"
+pymssql = "*"
+PyMySQL = "*"
+pytz = "*"
+redis = "*"
+salt-pepper = "*"
+SQLAlchemy = "*"
+sqlkit = "*"
+sqlparse = "*"
+tendo = "*"
+timelib = "*"
+postgres = "*"
+
+
+[requires]
+
+python_version = "2.7"

@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='dot4db',
-    version='',
-    packages=[''],
+    version='0.1',
+    packages=['dot4db'],
     url='https://github.com/perlchild/dot4db',
     license='Apache License 2.0',
     author='Eric Robibaro',
